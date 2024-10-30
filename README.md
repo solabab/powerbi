@@ -8,3 +8,6 @@ TOOLS USED
 
 MICROSOFT EXCEL FOR DATA CLEANING,ANALYSING AND VISUALIASATION
 
+DATA CLEANING
+
+![assingment 21_10_2024 11_13_46 am](https://github.com/user-attachments/assets/f8ca4d46-9622-463d-ba08-cfdbedddd494)
